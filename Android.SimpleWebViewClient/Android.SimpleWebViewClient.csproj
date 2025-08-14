@@ -7,13 +7,13 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <Version>1.4.0</Version>
+    <Version>1.4.1</Version>
     <Authors>AlexSJC</Authors>
     <Description>A simple WebViewClient for Android.</Description>
     <Copyright>Copyright © $(Authors) $([System.DateTime]::Now.Year)</Copyright>
     <PackageIcon>Icon.png</PackageIcon>
     <PackageReadmeFile>README.md</PackageReadmeFile>
-    <RepositoryUrl>https://github.com/SJC08/Android.SimpleWebViewClient</RepositoryUrl>
+    <RepositoryUrl>https://github.com/sjc08/Android.SimpleWebViewClient</RepositoryUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
